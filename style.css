@@ -105,6 +105,7 @@ body{
         
     position: relative;
     display: inline-block;
+    margin-right: -10px;
 }
 .dropbtn{
     color: rgb(12, 10, 10);
