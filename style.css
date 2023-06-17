@@ -121,6 +121,7 @@ body{
 .hm{
     background-color: rgb(231, 82, 107);
     color: white;
+    margin-left: 14px;
 }
 /* Dropdown CSS */
 .dropdown-content{
