@@ -1,0 +1,100 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color:#eee;}
+
+.black
+{background-color:#000;
+}	
+.headertop
+{
+    width: 1200px;
+    height:40px;
+    margin:0 auto;
+    background-color: #123;
+	
+}
+.htleft
+{
+	width: 600px;
+    height:40px;
+	float:left;
+    padding:10px 0 0 20px;
+	box-sizing:border-box;
+	color:white;
+	font-size:14px;
+	letter-spacing:1px;
+
+	}
+
+.htright
+{
+	width: 600px;
+    height:40px;
+	float:right;
+    padding:10px 20px 0 0px;
+	box-sizing:border-box;
+	color:white;
+	font-size:14px;
+	text-align:right;
+	letter-spacing:1px;
+
+	}
+	.htright b:hover
+	{
+		color:#C60;
+		}
+
+.header
+{
+    width: 1200px;
+    height:100px;
+    margin:0 auto;
+    background-color: #234;
+
+}
+.menubar{
+    width: 1200px;
+    height:50px;
+    margin:0 auto;
+    background-color: #789;
+
+
+}
+
+.slider
+{
+    width: 1200px;
+    height:70%;
+    margin:0 auto;
+    background-color: #963;
+
+
+}
+
+.newsblock{
+    width: 1200px;
+    height:400px;
+    margin:0 auto;
+    background-color: #305;
+}
+
+
+.testimonial{
+    width: 1200px;
+    height:600px;
+    margin:0 auto;
+    background-color: #389;
+
+}
+
+
+.footer{
+    width: 1200px;
+    height:300px;
+    margin:0 auto;
+    background-color: #989;
+
+}
+
